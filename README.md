@@ -18,7 +18,7 @@ This is a Flutter E-Commerce App that showcases products from an API, allowing u
 🔹 UI Components: Material Design, Flutter SVG
 
 ![image alt](https://github.com/vishn-Mk/ecommerce_app/blob/master/WhatsApp%20Image%202025-02-05%20at%2017.26.50_01e5af9a.jpg?raw=true)
-![image alt]()
+![image alt](https://github.com/vishn-Mk/ecommerce_app/blob/master/WhatsApp%20Image%202025-02-05%20at%2017.26.50_65ed21e0.jpg?raw=true)
 ![image alt]()
 ![image alt]()
 
