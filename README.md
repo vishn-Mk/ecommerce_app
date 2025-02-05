@@ -1,5 +1,5 @@
 # 🛍️ Flutter E-Commerce App
-📌 Overview
+📌 
 This is a Flutter E-Commerce App that showcases products from an API, allowing users to add items to the cart (SQLite), mark products as favorites, and manage authentication with a dummy login. It is built using Provider for state management and SQFlite for local database storage.
 
 🎯 Features
