@@ -20,7 +20,7 @@ This is a Flutter E-Commerce App that showcases products from an API, allowing u
 ![image alt](https://github.com/vishn-Mk/ecommerce_app/blob/master/dummy_login.jpg?raw=true)
 ![image alt](https://github.com/vishn-Mk/ecommerce_app/blob/master/Home.jpg?raw=true)
 ![image alt](https://github.com/vishn-Mk/ecommerce_app/blob/master/cart.jpg?raw=true)
-![image alt]()
+![image alt](https://github.com/vishn-Mk/ecommerce_app/blob/master/Favorite.jpg?raw=true)
 
 ## Getting Started
 
