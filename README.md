@@ -17,7 +17,7 @@ This is a Flutter E-Commerce App that showcases products from an API, allowing u
 🔹 Networking: HTTP Package
 🔹 UI Components: Material Design, Flutter SVG
 
-![image alt]()
+![image alt](https://github.com/vishn-Mk/ecommerce_app/blob/master/dummy_login.jpg?raw=true)
 ![image alt]()
 ![image alt]()
 ![image alt]()
