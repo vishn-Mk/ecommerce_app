@@ -17,6 +17,11 @@ This is a Flutter E-Commerce App that showcases products from an API, allowing u
 🔹 Networking: HTTP Package
 🔹 UI Components: Material Design, Flutter SVG
 
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
