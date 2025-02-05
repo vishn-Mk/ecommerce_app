@@ -1,6 +1,21 @@
-# ecommerce_app
+# 🛍️ Flutter E-Commerce App
+📌 Overview
+This is a Flutter E-Commerce App that showcases products from an API, allowing users to add items to the cart (SQLite), mark products as favorites, and manage authentication with a dummy login. It is built using Provider for state management and SQFlite for local database storage.
 
-A new Flutter project.
+🎯 Features
+✅ Dummy Login: Simple login form that validates credentials and navigates to the home screen.
+✅ Product Listing: Fetches products from DummyJSON API and displays key details.
+✅ Cart Management: Users can add/remove items, adjust quantity, and persist cart data using SQLite.
+✅ Favorites Feature: Mark/unmark products as favorites and store them in the local database.
+✅ State Management: Uses Provider to manage cart and favorite states efficiently.
+✅ Navigation & UI: Follows a clean and structured navigation flow with user-friendly design.
+
+⚙️ Tech Stack
+🔹 Framework: Flutter (Dart)
+🔹 State Management: Provider
+🔹 Local Database: SQFlite
+🔹 Networking: HTTP Package
+🔹 UI Components: Material Design, Flutter SVG
 
 ## Getting Started
 
